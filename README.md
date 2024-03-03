@@ -19,9 +19,7 @@ Welcome to my coding space! 🚀 Here you'll find a blend of passion, creativity
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-alaa-35a082187)
 ### 🌟 Fun Fact
 
 Did you know? I believe that bugs in code are just elusive little creatures playing hide and seek with developers! 🐛🔍
