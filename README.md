@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Mostafa Alaa
 
-## 👨🏻‍💻 Junior Software Engineer | Code Enthusiast | Coffee Lover
+## 👨🏻‍💻 Junior Software Engineer | Code Enthusiast
 
 Welcome to my coding space! 🚀 Here you'll find a blend of passion, creativity, and endless lines of code.
 
